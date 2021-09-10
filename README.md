@@ -1,4 +1,6 @@
-- 👋 Heya! I’m Alice (@AliceCatgirl)
-- 👀 I’m interested in Python and web development, as well as building small software and applications for fun!
-- 🌱 I’m currently learning PHP, and touching up on my Python.
-- 💞️ I’m interested in music, and want to make a visual novel game someday!
+💗 Heya all! I’m Alice (@AliceCatgirl)
+💜 I’m interested in software and web development, as well as building small applications!
+💖 I’m currently learning PHP, and touching up on my Python.
+💕 I play piano and love writing music in my spare time!
+
+Thank you for reading my intro!
